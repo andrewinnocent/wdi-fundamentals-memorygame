@@ -23,6 +23,11 @@ main {
 img {
 	margin: 40px 8px;
 }
+
+nav a {
+	color: #FFFFFF;
+}
+
 a {
 	font-family: "Raleway", sans-serif;
 	color: #0D2C40;
